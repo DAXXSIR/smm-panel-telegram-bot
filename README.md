@@ -1,5 +1,4 @@
-# Cloned bot: kxkdkdkdbot - chat bot
-It is repository for chat bot: [@Cloned bot: kxkdkdkdbot](https://t.me/Cloned bot: kxkdkdkdbot)
+ for chat bot
 
 ## What it is?
 This repository can be imported to [Bots.Business](https://bots.business) as a worked chat bot.
